@@ -1,3 +1,5 @@
+# ![lotfiElKhalidy](https://github.com/lotfiElKhalidy/lotfiElKhalidy/blob/main/bg.jpg)
+
 <h1 align="center">Hi 👋, I'm Lotfi !</h1>
 <h3 align="center">🌱 I’m currently a second year CyberSecurity Graduate student looking for new opportunities</h3>
 
