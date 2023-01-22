@@ -68,11 +68,13 @@
   </a> 
 </p>
 
-<a href="https://github.com/lotfiElKhalidy/github-readme-stats">
-  <img alt="Lotfi EL KHALIDY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lotfielkhalidy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&locale=fr&layout=compact" />
-<a/>
+<p align="center">
+  <a href="https://github.com/lotfiElKhalidy/github-readme-stats">
+    <img alt="Lotfi EL KHALIDY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lotfielkhalidy&show_icons=true&count_private=true&              theme=react&hide_border=true&bg_color=0D1117&locale=fr&layout=compact" />
+  </a>
+</p>
 
-<p>
+<p align="center">
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotfielkhalidy&&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&locale=fr&layout=compact" alt="Lotfi EL KHALIDY's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotfielkhalidy&&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&locale=fr&layout=compact" alt="Lotfi EL KHALIDY's github stats" />
 </p>
