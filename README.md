@@ -72,5 +72,5 @@
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lotfielkhalidy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&locale=fr&layout=compact" alt="lotfielkhalidy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lotfielkhalidy&show_icons=true&locale=en" alt="lotfielkhalidy" />
 </p>
