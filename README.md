@@ -68,13 +68,9 @@
   </a> 
 </p>
 
-<!--p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lotfielkhalidy&show_icons=true&locale=en&layout=compact" alt="lotfielkhalidy" />
-</p -->
-
 <a href="https://github.com/lotfiElKhalidy/github-readme-stats"><img alt="Lotfi EL KHALIDY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lotfielkhalidy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&locale=fr&layout=compact" />
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lotfielkhalidy&show_icons=true&locale=en" alt="lotfielkhalidy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lotfielkhalidy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&locale=fr&layout=compact" alt="lotfielkhalidy" />
 </p>
