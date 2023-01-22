@@ -70,7 +70,7 @@
 
 <a href="https://github.com/lotfiElKhalidy/github-readme-stats">
 <p align="center">
-  <img alt="Lotfi EL KHALIDY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lotfielkhalidy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&locale=fr&layout=compact" />
+  <img alt="Lotfi EL KHALIDY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lotfielkhalidy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&locale=en&layout=compact" />
   <a href="https://github.com/lotfiElKhalidy/github-readme-stats">
 <a/>
 
