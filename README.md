@@ -1,4 +1,4 @@
-# ![lotfiElKhalidy](https://github.com/lotfiElKhalidy/lotfiElKhalidy/blob/main/bg.jpg)
+# ![lotfiElKhalidy](https://github.com/lotfiElKhalidy/lotfiElKhalidy/blob/main/software.png)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lotfiElKhalidy.lotfiElKhalidy" />
 
