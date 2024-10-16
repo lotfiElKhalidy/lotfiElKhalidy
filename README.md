@@ -28,15 +28,18 @@
 </div>
 
 <br/>
-<hr/>
 
-<a href="https://github.com/lotfiElKhalidy/github-readme-stats">
-<p align="center">
-  <img alt="Lotfi EL KHALIDY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lotfielkhalidy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&locale=en&layout=compact" />
-  <a href="https://github.com/lotfiElKhalidy/github-readme-stats">
-<a/>
+<h3>⚡ Stats </h3>
 
-<p align="center">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotfielkhalidy&&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&locale=en&layout=compact" alt="Lotfi EL KHALIDY's github stats" />
-</p>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lotfiElKhalidy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=lotfiElKhalidy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lotfiElKhalidy&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;" />
+</h3>
