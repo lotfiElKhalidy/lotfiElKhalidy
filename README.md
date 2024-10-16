@@ -1,13 +1,23 @@
 # ![lotfiElKhalidy](https://github.com/lotfiElKhalidy/lotfiElKhalidy/blob/main/bg.jpg)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lotfi !</h1>
-<h3 align="center">🌱 I’m currently a second year CyberSecurity Graduate student looking for new opportunities</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lotfiElKhalidy.lotfiElKhalidy" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/lotfi-el-khalidy-8371a5225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lotfi-el-khalidy-8371a5225" height="30" width="40" /></a>
-  <a href="https://instagram.com/lotfi_21__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lotfi_21__" height="30" width="40" /></a>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋+,+I'm+Lotfi+!;" />
+</h1>
+
+<h3 align="center">🌱 I’m currently a passionate Software Engineer </h3>
+
+<h3 align="left">If you want to connect with me:</h3>
+<div align="center"> 
+  <a href="mailto:lotfi.elkhalidy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/lotfi-el-khalidy-8371a5225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
